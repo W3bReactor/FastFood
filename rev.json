@@ -1,6 +1,6 @@
 {
   "css/main.css": "css/main-cd1b2230ef.css",
-  "css/vendor.css": "css/vendor-6324272b9d.css",
+  "css/vendor.css": "css/vendor-4ab4034103.css",
   "fonts/Roboto-Bold.woff2": "fonts/Roboto-Bold-f3a02e2578.woff2",
   "fonts/Roboto-Medium.woff2": "fonts/Roboto-Medium-50d01d3e6c.woff2",
   "fonts/Roboto-Regular.woff2": "fonts/Roboto-Regular-9feb0110b6.woff2",
@@ -51,5 +51,5 @@
   "img/review-marks.png": "img/review-marks-428076599b.png",
   "img/review-marks.webp": "img/review-marks-e001e08d68.webp",
   "img/tw.svg": "img/tw-7f951fe3e8.svg",
-  "js/main.js": "js/main-6ac7adb1bc.js"
+  "js/main.js": "js/main-ab6f6013c6.js"
 }
